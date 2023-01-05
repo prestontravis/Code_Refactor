@@ -17,15 +17,18 @@ body {
     color: #ffffff;
 }
 
+/* Header Display Font Size */
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
+/* Header Color */
 .header h1 .seo {
     color: #d9dcd6;
 }
 
+/* Header Division Padding */
 .header div {
     padding-top: 15px;
     margin-right: 20px;

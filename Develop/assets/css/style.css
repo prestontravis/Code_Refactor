@@ -37,20 +37,24 @@ body {
     font-size: 20px;
 }
 
+/* Header Division list style type */
 .header div ul {
     list-style-type: none;
 }
 
+/* Header Division unordered list and list item */
 .header div ul li {
     display: inline-block;
     margin-left: 25px;
 }
 
+/* Header color */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/* Header pixel font size */
 p {
     font-size: 16px;
 }

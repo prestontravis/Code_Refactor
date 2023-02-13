@@ -1,13 +1,20 @@
-The files in this repository are codes for this challenge. Both CSS & HTML are marked up to be identifiable in code.   
-  
-Website:  
+# Code Refactor challenge!
+
+## Description
+GIVEN a webpage meets accessibility standards  
+WHEN I view the source code  
+THEN I find semantic HTML elements  
+WHEN I view the structure of the HTML elements  
+THEN I find that the elements follow a logical structure independent of styling and positioning  
+WHEN I view the image elements  
+THEN I find accessible alt attributes  
+WHEN I view the heading attributes  
+THEN they fall in sequential order  
+WHEN I view the title element  
+THEN I find a concise, descriptive title  
+
+## Screenshot
 ![01-html-css-git-homework-demo](https://user-images.githubusercontent.com/119766277/210649488-5e4d876c-bc4f-4e3a-a682-7466d3eb6fcc.png).  
-CSS:  
-![Screenshot 2023-01-06 at 6 03 12 PM](https://user-images.githubusercontent.com/119766277/211114258-5aebe8fd-1058-4bcc-b399-24513e50e6f5.png)  
-HTML:  
-![Screenshot 2023-01-06 at 6 07 27 PM](https://user-images.githubusercontent.com/119766277/211114628-be53fb47-1df0-46fe-9fdf-86e5db62b30b.png) 
 
-
-
-    
-GitHub URL: https://github.com/trayprey/all-star
+## Application Link
+https://trayprey.github.io/Code_Refactor/
